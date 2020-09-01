@@ -1,0 +1,14 @@
+header, nav, main, footer {
+    max-width: 1200px;
+    margin:auto;
+}
+    
+    
+    
+nav ul {padding-left: $gutter;}
+nav li {width: 15%;}
+nav a {padding: .5rem 1rem;}
+    
+main #venus {
+    width: 33%;
+}
