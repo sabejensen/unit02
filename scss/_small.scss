@@ -29,6 +29,7 @@ header h2{
     visibility: hidden;
 }
 
+
 nav {background-color: #111;}
 nav ul{margin:0; padding: 0;}
 nav li {list-style-type: none;
@@ -74,6 +75,10 @@ footer {
     background-color: $primaryColor;
     text-align: center;
     padding: 1rem $gutter;
+}
+.wrapper {
+    width: 100%;
+    background-color: $primaryColor;
 }
 
 
